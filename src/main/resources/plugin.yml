@@ -1,0 +1,4 @@
+name: TempCobwebs
+version: '${project.version}'
+main: dev.admitiendo.tempcobwebs.TempCobwebs
+api-version: '1.20'
